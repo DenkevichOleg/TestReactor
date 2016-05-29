@@ -1,0 +1,13 @@
+com\bstu\epam\util\ImageUtils.class
+com\bstu\epam\page\LoginPage.class
+com\bstu\epam\step\Steps.class
+com\bstu\epam\AppTest.class
+com\bstu\epam\page\AbstractPage.class
+com\bstu\epam\page\HomePage.class
+com\bstu\epam\page\ChangePage.class
+com\bstu\epam\util\StringUtils.class
+com\bstu\epam\page\SearchPage.class
+com\bstu\epam\page\AfishaPage.class
+com\bstu\epam\page\UserPage.class
+com\bstu\epam\page\FilmPage.class
+com\bstu\epam\page\MonitorPage.class

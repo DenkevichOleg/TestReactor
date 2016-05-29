@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.bstu.epam.AppTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.bstu.epam.AppTest">
+        <methods>
+          <include name="logout"/>
+          <include name="stopBrowser"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.bstu.epam.AppTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.bstu.epam.AppTest] -->
