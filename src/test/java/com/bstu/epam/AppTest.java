@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
  * Created by Holger on 11.4.16.
  */
 public class AppTest {
-    private static final String SEARCH_FILM = "Р РѕРєРѕРІРѕРµ С‡РёСЃР»Рѕ 23";
+    private static final String SEARCH_FILM = "Роковое число 23";
     private static final String USER = "Holger";
     private static final String PASSWORD = "nbfvfnnafkmrjh";
     private static final Integer WAIT_LOGOUT_ONLY_MINUTE = 610000;

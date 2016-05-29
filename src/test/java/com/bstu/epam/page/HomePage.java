@@ -17,7 +17,7 @@ public class HomePage extends AbstractPage {
     @FindBy(css = ".trailerGag")
     private WebElement firstPopularTrailer;
 
-    @FindBy(xpath ="//a[contains(text(),'Ð’Ñ…Ð¾Ð´')]")
+    @FindBy(linkText = "Âõîä")
     private WebElement login;
 
     @FindBy(id = "logout")

@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
  * Created by Holger on 11.4.16.
  */
 public class Steps {
-    private static final String USER_PREFIX = "РџСЂРѕС„РёР»СЊ: ";
+    private static final String USER_PREFIX = "Профиль: ";
     private static final String LOGOUT_URL = "http://joyreactor.cc/logout/";
     private static final Integer WAIT_SAVE_FILE = 50000;
     private static final Integer WATCH_TRAILER = 10000;
